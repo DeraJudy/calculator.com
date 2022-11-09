@@ -1,0 +1,238 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.avi{
+	height: 100vh;
+	width: 100%;
+	float: left;
+	background-color: hsl(185, 41%, 84%);
+}
+
+.bag{
+	width: 100%;
+	height: 100px;
+	float: left;
+	margin-top: 3%;
+}
+
+.bag img{
+	margin-left: 47%;
+	margin-top: 20px;
+}
+
+.name{
+	width: 65%;
+	height: 60vh;
+	background-color: hsl(0, 0%, 100%);
+	float: left;
+	margin-top: 35px;
+	margin-left: 17%;
+	border-radius: 20px;
+}
+
+.name1{
+	width: 50%;
+	height: 100%;
+	float: left;
+	padding: 30px;
+}
+
+.stu{
+	width: 100%;
+	height: 35px;
+	float: left;
+	background-color: hsl(189, 41%, 97%);
+	border-radius: 5px;
+}
+
+.stu:hover{
+	border: 1px solid  hsl(172, 67%, 45%);
+}
+
+.stu img{
+	margin-left: 15px;
+	margin-top: 6px;
+	width: 15px;
+}
+
+.stu input{
+	width: 79%;
+	height: 33px;
+  	border: 1px solid transparent;
+  	outline: none;
+  	background: transparent;
+	box-shadow: none;
+	text-align: right;
+	color:  hsl(172, 67%, 45%);
+	font-size: 20px;
+}
+
+.pid{
+	width: 100%;
+	height: 23vh;
+	float: left;
+	margin-top: 20px;
+}
+
+.sola{
+	width: 60%;
+	height: 32px;
+	float: left;
+}
+
+.sola h4{
+	font-size: 18px;
+	letter-spacing: 2px;
+	color: hsl(184, 14%, 56%);
+}
+
+.solar{
+	width: 100%;
+	height: 30px;
+	float: left;
+}
+
+.solar h4{
+	font-size: 20px;
+	letter-spacing: 2px;
+	color: hsl(184, 14%, 56%);
+}
+
+.solar i{
+	font-size: 13px;
+	margin-left: 7px;
+}
+
+.solar1 {
+	width: 100%;
+	height: 19vh;
+	float: left;
+}
+
+.rev{
+	margin-top: .5rem;
+	padding: 0.7rem 2.4rem;
+	background-color: hsl(183, 100%, 15%);
+	border: none;
+	border-radius: 10px;
+	letter-spacing: 3px;
+	margin-right: 10px;
+	width: 30%;
+	color: white;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
+.rev:hover{
+	background-color: hsl(172, 67%, 45%);
+}
+
+.rev.active-tip{
+	background-color: hsl(172, 67%, 45%);
+}
+
+/*.custom.active-tip{
+	background-color: hsl(172, 67%, 45%);
+}
+*/
+.solar1 input{
+	color: hsl(184, 14%, 56%);
+	text-align: center;
+	font-size: 1.3rem;
+	margin-top: .5rem;
+	width: 30%;
+	border: none;
+	border-radius: 10px;
+	padding: 0.7rem .1rem;
+	background-color: hsl(189, 41%, 97%);
+	outline: none;
+}
+
+.pre{
+	width: 100%;
+	height: 10vh;
+	float: left;
+	margin-top: 10px;
+}
+
+.name2{
+	width: 45%;
+	height: 90%;
+	background-color: hsl(183, 100%, 15%);
+	float: left;
+	margin-top: 2%;
+	margin-left: 2.5%;
+	border-radius: 20px;
+	padding: 20px;
+}
+
+.enter{
+	width: 100%;
+	height: 50px;
+	float: left;
+	margin-top: 30px;
+}
+
+.enter1{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+.enter1 h2{
+	font-size: 20px;
+	color: white;
+}
+
+.enter1 p{
+	font-size: 15px;
+	color: hsl(184, 14%, 56%);
+}
+
+.enter2{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+.enter2 h2{
+	color:  hsl(172, 67%, 45%);
+	font-size: 50px;
+	line-height: 45px;
+	text-align: right;
+}
+
+.enter2 i{
+	font-size: 40px;
+}
+
+.enter2 img{
+	width: 22px;
+}
+
+.enter3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	margin-top: 70px;
+}
+
+.res{
+	background-color: hsl(172, 67%, 45%);
+	padding: 0.8rem 2.4rem;
+	width: 100%;
+	margin-right: 10px;
+	border: none;
+	border-radius: 10px;
+	color: black;
+	text-transform: uppercase;
+	font-size: 17px
+}
+
+.error{
+	color: red;
+	display: none;
+}

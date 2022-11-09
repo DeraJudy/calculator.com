@@ -1,0 +1,854 @@
+@media only screen and (min-width: 150px) and (max-width: 299px){
+	.avi{
+		height: 220vh;
+		width: 100%;
+		float: left;
+		background-color: hsl(185, 41%, 84%);
+	}
+
+	.bag{
+		width: 100%;
+		height: 100px;
+		float: left;
+		margin-top: 3%;
+	}
+
+	.bag img{
+		margin-left: 30%;
+		margin-top: 20px;
+	}
+
+	.name{
+		width: 100%;
+		height: 200vh;
+		background-color: hsl(0, 0%, 100%);
+		float: left;
+		margin-top: 5px;
+		margin-left: 0;
+		border-top-left-radius: 20px;
+		border-top-right-radius: 20px;
+		border-bottom-right-radius: 0;
+		border-bottom-left-radius: 0;
+	}
+
+	.name1{
+		width: 100%;
+		height: 60%;
+		float: left;
+		padding: 10px;
+	}
+
+	.pre{
+		width: 90%;
+		height: 15vh;
+		float: left;
+		margin-top: 5px;
+		margin-left: 5%;
+	}
+
+	.stu{
+		width: 100%;
+		height: 40px;
+		float: left;
+		background-color: hsl(189, 41%, 97%);
+		border-radius: 5px;
+	}
+
+	.stu input{
+		width: 76%;
+		height: 33px;
+	  	border: 1px solid transparent;
+	  	outline: none;
+	  	background: transparent;
+		box-shadow: none;
+		text-align: right;
+		color: hsl(172, 67%, 45%);
+		font-size: 20px;
+	}
+
+	.pid{
+		width: 90%;
+		height: 70vh;
+		float: left;
+		margin-top: 20px;
+		margin-left: 5%;
+	}
+
+	.solar{
+		width: 100%;
+		height: 30px;
+		float: left;
+	}
+
+	.solar h4{
+		font-size: 18px;
+		letter-spacing: 2px;
+		color: hsl(184, 14%, 56%);
+	}
+
+	.sola{
+		width: 100%;
+		height: 52px;
+		float: left;
+	}
+
+	.sola h4{
+		font-size: 18px;
+		letter-spacing: 2px;
+		color: hsl(184, 14%, 56%);
+	}
+
+	.solar i{
+		font-size: 10px;
+		margin-left: 7px;
+	}
+
+	.solar1 {
+		width: 100%;
+		height: 23vh;
+		float: left;
+	}
+
+	.rev{
+		margin-top: .5rem;
+		background-color: hsl(183, 100%, 15%);
+		border: none;
+		text-align: center;
+		border-radius: 10px;
+		letter-spacing: 3px;
+		margin-right: 0;
+		width: 94%;
+	}
+
+	.rev:hover{
+		background-color: hsl(172, 67%, 45%);
+	}
+
+	.solar1 input{
+		color: hsl(184, 14%, 56%);
+		text-align: center;
+		font-size: 1.3rem;
+		margin-top: .5rem;
+		width: 96%;
+		border: none;
+		border-radius: 10px;
+		padding: 0.7rem .1rem;
+		background-color: hsl(189, 41%, 97%);
+		outline: none;
+	}
+
+	.rev a{
+		text-decoration: none;
+		color: white;
+		font-size: 1rem;
+		text-align: center;
+	}
+
+	.name2{
+		width: 90%;
+		height: 35%;
+		background-color: hsl(183, 100%, 15%);
+		float: left;
+		margin-top: 1%;
+		margin-left: 5%;
+		border-radius: 20px;
+		padding: 20px;
+	}
+
+	.enter{
+		width: 100%;
+		height: 80px;
+		float: left;
+		margin-top: 18px;
+	}
+
+	.enter1{
+		width: 100%;
+		height: 50%;
+		float: left;
+	}
+
+	.enter1 h2{
+		font-size: 17px;
+		color: white;
+		text-align: center;
+	}
+
+	.enter1 p{
+		font-size: 13px;
+		color: hsl(184, 14%, 56%);
+		text-align: center;
+	}
+
+	.enter2{
+		width: 100%;
+		height: 50%;
+		float: left;
+	}
+
+	.enter2 h2{
+		color:  hsl(172, 67%, 45%);
+		font-size: 30px;
+		line-height: 40px;
+		text-align: center;
+	}
+
+	.enter2 i{
+		font-size: 25px;
+	}
+
+	.enter2 img{
+		width: 22px;
+	}
+
+	.enter3{
+		width: 100%;
+		height: 50px;
+		float: left;
+		margin-top: 37px;
+	}
+
+	.rev1{
+		padding: 0.8rem 1.5rem;
+		background-color: hsl(184, 14%, 56%);
+		border: none;
+		border-radius: 10px;
+		letter-spacing: 3px;
+		margin-right: 10px;
+		width: 100%;
+	}
+
+	.rev1 a{
+		text-decoration: none;
+		color: black;
+		text-transform: uppercase;
+		font-size: 17px;
+	}
+}
+
+@media only screen and (min-width: 300px) and (max-width: 600px){
+	.avi{
+		height: 173vh;
+		width: 100%;
+		float: left;
+		background-color: hsl(185, 41%, 84%);
+	}
+
+	.bag{
+		width: 100%;
+		height: 100px;
+		float: left;
+		margin-top: 3%;
+	}
+
+	.bag img{
+		margin-left: 39%;
+		margin-top: 20px;
+	}
+
+	.name{
+		width: 100%;
+		height: 150vh;
+		background-color: hsl(0, 0%, 100%);
+		float: left;
+		margin-top: 5px;
+		margin-left: 0;
+		border-top-left-radius: 20px;
+		border-top-right-radius: 20px;
+		border-bottom-right-radius: 0;
+		border-bottom-left-radius: 0;
+	}
+
+	.name1{
+		width: 100%;
+		height: 60%;
+		float: left;
+		padding: 40px;
+	}
+
+	.pre{
+		width: 90%;
+		height: 15vh;
+		float: left;
+		margin-top: 5px;
+		margin-left: 5%;
+	}
+
+	.stu{
+		width: 100%;
+		height: 40px;
+		float: left;
+		background-color: hsl(189, 41%, 97%);
+		border-radius: 5px;
+
+	}
+
+	.stu input{
+		width: 80%;
+		height: 33px;
+	  	border: 1px solid transparent;
+	  	outline: none;
+	  	background: transparent;
+		box-shadow: none;
+		text-align: right;
+		color:  hsl(172, 67%, 45%);
+		font-size: 20px;
+	}
+
+	.pid{
+		width: 90%;
+		height: 42vh;
+		float: left;
+		margin-top: 20px;
+		margin-left: 5%;
+	}
+
+	.solar{
+		width: 100%;
+		height: 30px;
+		float: left;
+	}
+
+	.solar h4{
+		font-size: 20px;
+		letter-spacing: 2px;
+		color: hsl(184, 14%, 56%);
+	}
+
+	.solar i{
+		font-size: 13px;
+		margin-left: 7px;
+	}
+
+	.solar1 {
+		width: 100%;
+		height: 22vh;
+		float: left;
+	}
+
+	.rev{
+		margin-top: .5rem;
+		padding: .8rem 2rem;
+		background-color: hsl(183, 100%, 15%);
+		border: none;
+		border-radius: 10px;
+		letter-spacing: 3px;
+		margin-right: 5px;
+		width: 46%;
+	}
+
+	.rev:hover{
+		background-color: hsl(172, 67%, 45%);
+	}
+
+	.solar1 input{
+		color: hsl(184, 14%, 56%);
+		text-align: center;
+		font-size: 1.3rem;
+		margin-top: .5rem;
+		width: 46%;
+		border: none;
+		border-radius: 10px;
+		padding: 0.7rem .1rem;
+		background-color: hsl(189, 41%, 97%);
+		outline: none;
+	}
+
+	.rev a{
+		text-decoration: none;
+		color: white;
+		font-size: 1rem;
+	}
+
+	.name2{
+		width: 70%;
+		height: 35%;
+		background-color: hsl(183, 100%, 15%);
+		float: left;
+		margin-top: 1%;
+		margin-left: 15%;
+		border-radius: 20px;
+		padding: 20px;
+	}
+
+	.enter{
+		width: 100%;
+		height: 50px;
+		float: left;
+		margin-top: 18px;
+	}
+
+	.enter1{
+		width: 50%;
+		height: 100%;
+		float: left;
+	}
+
+	.enter1 h2{
+		font-size: 17px;
+		color: white;
+	}
+
+	.enter1 p{
+		font-size: 13px;
+		color: hsl(184, 14%, 56%);
+	}
+
+	.enter2 h2{
+		color:  hsl(172, 67%, 45%);
+		font-size: 30px;
+		line-height: 40px;
+		text-align: right;
+	}
+
+	.enter2 i{
+		font-size: 25px;
+	}
+
+	.enter2 img{
+		width: 22px;
+	}
+
+	.enter3{
+		width: 100%;
+		height: 50px;
+		float: left;
+		margin-top: 37px;
+	}
+}
+
+@media only screen and (min-width: 601px) and (max-width: 800px){	
+	.avi{
+		height: 100vh;
+		width: 100%;
+		float: left;
+		background-color: hsl(185, 41%, 84%);
+	}
+
+	.bag{
+		width: 100%;
+		height: 100px;
+		float: left;
+		margin-top: 3%;
+	}
+
+	.bag img{
+		margin-left: 42%;
+		margin-top: 20px;
+	}
+
+	.name{
+		width: 90%;
+		height: 70vh;
+		background-color: hsl(0, 0%, 100%);
+		float: left;
+		margin-top: 10px;
+		margin-left: 5%;
+		border-radius: 20px;
+	}
+
+	.name1{
+		width: 50%;
+		height: 100%;
+		float: left;
+		padding: 30px;
+	}
+
+	.stu{
+		width: 100%;
+		height: 35px;
+		float: left;
+		background-color: hsl(189, 41%, 97%);
+		border-radius: 5px;
+	}
+
+	.stu:hover{
+		border: 1px solid  hsl(172, 67%, 45%);
+	}
+
+	.stu img{
+		margin-left: 15px;
+		margin-top: 6px;
+		width: 15px;
+	}
+
+	.stu input{
+		width: 75%;
+		height: 33px;
+	  	border: 1px solid transparent;
+	  	outline: none;
+	  	background: transparent;
+		box-shadow: none;
+		text-align: right;
+		color:  hsl(172, 67%, 45%);
+		font-size: 20px;
+	}
+
+	.pid{
+		width: 100%;
+		height: 26vh;
+		float: left;
+		margin-top: 30px;
+	}
+
+	.solar{
+		width: 100%;
+		height: 30px;
+		float: left;
+	}
+
+	.solar h4{
+		font-size: 20px;
+		letter-spacing: 2px;
+		color: hsl(184, 14%, 56%);
+	}
+
+	.solar i{
+		font-size: 13px;
+		margin-left: 7px;
+	}
+
+	.solar1 {
+		width: 100%;
+		height: 15vh;
+		float: left;
+	}
+
+	.rev{
+		margin-top: .5rem;
+		padding: 0.7rem 1.1rem;
+		background-color: hsl(183, 100%, 15%);
+		border: none;
+		border-radius: 10px;
+		letter-spacing: 3px;
+		margin-right: 3px;
+		width: 30%;
+	}
+
+	.rev:hover{
+		background-color: hsl(172, 67%, 45%);
+	}
+
+	.solar1 input{
+		color: hsl(184, 14%, 56%);
+		text-align: center;
+		font-size: 1rem;
+		margin-top: .5rem;
+		width: 30%;
+		border: none;
+		border-radius: 10px;
+		padding-top: 0.7rem;
+		background-color: hsl(189, 41%, 97%);
+		outline: none;
+	}
+
+	.rev a{
+		text-decoration: none;
+		color: white;
+		font-size: 1rem;
+	}
+
+	.pre{
+		width: 100%;
+		height: 10vh;
+		float: left;
+		margin-top: 13px;
+	}
+
+	.name2{
+		width: 45%;
+		height: 90%;
+		background-color: hsl(183, 100%, 15%);
+		float: left;
+		margin-top: 2%;
+		margin-left: 2.5%;
+		border-radius: 20px;
+		padding: 20px;
+	}
+
+	.enter{
+		width: 100%;
+		height: 50px;
+		float: left;
+		margin-top: 30px;
+	}
+
+	.enter1{
+		width: 50%;
+		height: 100%;
+		float: left;
+	}
+
+	.enter1 h2{
+		font-size: 18px;
+		color: white;
+	}
+
+	.enter1 p{
+		font-size: 13px;
+		color: hsl(184, 14%, 56%);
+	}
+
+	.enter2{
+		width: 50%;
+		height: 100%;
+		float: left;
+	}
+
+	.enter2 h2{
+		color:  hsl(172, 67%, 45%);
+		font-size: 30px;
+		line-height: 25px;
+		text-align: right;
+	}
+
+	.enter2 i{
+		font-size: 25px;
+	}
+
+	.enter2 img{
+		width: 22px;
+	}
+
+	.enter3{
+		width: 100%;
+		height: 50px;
+		float: left;
+		margin-top: 80px;
+	}
+
+	.rev1{
+		padding: 0.8rem 2.4rem;
+		background-color: hsl(184, 14%, 56%);
+		border: none;
+		border-radius: 10px;
+		letter-spacing: 3px;
+		margin-right: 10px;
+		width: 100%;
+	}
+
+	.rev1 a{
+		text-decoration: none;
+		color: black;
+		text-transform: uppercase;
+		font-size: 17px;
+	}
+}
+
+@media only screen and (min-width: 801px) and (max-width: 1300px){	
+	.avi{
+		height: 100vh;
+		width: 100%;
+		float: left;
+		background-color: hsl(185, 41%, 84%);
+	}
+
+	.bag{
+		width: 100%;
+		height: 100px;
+		float: left;
+		margin-top: 3%;
+	}
+
+	.bag img{
+		margin-left: 45%;
+		margin-top: 10px;
+	}
+
+	.name{
+		width: 90%;
+		height: 70vh;
+		background-color: hsl(0, 0%, 100%);
+		float: left;
+		margin-top: 2px;
+		margin-left: 5%;
+		border-radius: 20px;
+	}
+
+	.name1{
+		width: 50%;
+		height: 100%;
+		float: left;
+		padding: 30px;
+	}
+
+	.stu{
+		width: 100%;
+		height: 35px;
+		float: left;
+		background-color: hsl(189, 41%, 97%);
+		border-radius: 5px;
+	}
+
+	.stu:hover{
+		border: 1px solid  hsl(172, 67%, 45%);
+	}
+
+	.stu img{
+		margin-left: 15px;
+		margin-top: 6px;
+		width: 15px;
+	}
+
+	.stu input{
+		width: 75%;
+		height: 33px;
+	  	border: 1px solid transparent;
+	  	outline: none;
+	  	background: transparent;
+		box-shadow: none;
+		text-align: right;
+		color:  hsl(172, 67%, 45%);
+		font-size: 20px;
+	}
+
+	.pid{
+		width: 100%;
+		height: 26vh;
+		float: left;
+		margin-top: 30px;
+	}
+
+	.solar{
+		width: 100%;
+		height: 30px;
+		float: left;
+	}
+
+	.solar h4{
+		font-size: 20px;
+		letter-spacing: 2px;
+		color: hsl(184, 14%, 56%);
+	}
+
+	.solar i{
+		font-size: 13px;
+		margin-left: 7px;
+	}
+
+	.solar1 {
+		width: 100%;
+		height: 15vh;
+		float: left;
+	}
+
+	.rev{
+		margin-top: .5rem;
+		padding: 0.7rem 1.1rem;
+		background-color: hsl(183, 100%, 15%);
+		border: none;
+		border-radius: 10px;
+		letter-spacing: 3px;
+		margin-right: 3px;
+		width: 30%;
+	}
+
+	.rev:hover{
+		background-color: hsl(172, 67%, 45%);
+	}
+
+	.solar1 input{
+		color: hsl(184, 14%, 56%);
+		text-align: center;
+		font-size: 1rem;
+		margin-top: .5rem;
+		width: 30%;
+		border: none;
+		border-radius: 10px;
+		padding-top: 0.7rem;
+		background-color: hsl(189, 41%, 97%);
+		outline: none;
+	}
+
+	.rev a{
+		text-decoration: none;
+		color: white;
+		font-size: 1rem;
+	}
+
+	.pre{
+		width: 100%;
+		height: 10vh;
+		float: left;
+		margin-top: 13px;
+	}
+
+	.name2{
+		width: 45%;
+		height: 90%;
+		background-color: hsl(183, 100%, 15%);
+		float: left;
+		margin-top: 2%;
+		margin-left: 2.5%;
+		border-radius: 20px;
+		padding: 20px;
+	}
+
+	.enter{
+		width: 100%;
+		height: 50px;
+		float: left;
+		margin-top: 30px;
+	}
+
+	.enter1{
+		width: 50%;
+		height: 100%;
+		float: left;
+	}
+
+	.enter1 h2{
+		font-size: 18px;
+		color: white;
+	}
+
+	.enter1 p{
+		font-size: 13px;
+		color: hsl(184, 14%, 56%);
+	}
+
+	.enter2{
+		width: 50%;
+		height: 100%;
+		float: left;
+	}
+
+	.enter2 h2{
+		color:  hsl(172, 67%, 45%);
+		font-size: 30px;
+		line-height: 25px;
+		text-align: right;
+	}
+
+	.enter2 i{
+		font-size: 25px;
+	}
+
+	.enter2 img{
+		width: 22px;
+	}
+
+	.enter3{
+		width: 100%;
+		height: 50px;
+		float: left;
+		margin-top: 80px;
+	}
+
+	.rev1{
+		padding: 0.8rem 2.4rem;
+		background-color: hsl(184, 14%, 56%);
+		border: none;
+		border-radius: 10px;
+		letter-spacing: 3px;
+		margin-right: 10px;
+		width: 100%;
+	}
+
+	.rev1 a{
+		text-decoration: none;
+		color: black;
+		text-transform: uppercase;
+		font-size: 17px;
+	}
+}
